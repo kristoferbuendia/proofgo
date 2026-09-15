@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "proofgo_dart_web"
+  ],
+  "packages": [
+    {
+      "name": "proofgo_dart_web",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
