@@ -1,0 +1,8 @@
+name: proofgo_dart_web
+description: Verify IT student clearance web application written in Dart.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
